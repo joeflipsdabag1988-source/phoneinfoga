@@ -4,11 +4,11 @@
 
 The tool only accepts E164 and International formats as input.
 
-- E164: +3396360XXXX
-- International: +33 9 63 60 XX XX
-- National: 09 63 60 XX XX
-- RFC3966: tel:+33-9-63-60-XX-XX
-- Out-of-country format from US: 011 33 9 63 60 XX XX
+- E164: +8126984534
+- International: +XX XX
+- National: XX XX
+- RFC3966: tel:+XX-XX
+- Out-of-country format from US: 011 XX XX
 
 E.164 formatting for phone numbers entails the following:
 
@@ -17,11 +17,11 @@ E.164 formatting for phone numbers entails the following:
 - Local Area code
 - Local Phone number
 
-For example, here’s a US-based number in standard local formatting: (415) 555-2671
+For example, here’s a US-based number in standard local formatting: (812)6984534
 
 ![](/images/0e2SMdL.png)
 
-Here’s the same phone number in E.164 formatting: +14155552671
+Here’s the same phone number in E.164 formatting: +8126984534
 
 ![](/images/KfrvacR.png)
 
